@@ -1,0 +1,8 @@
+attrdict
+huggingface_hub
+transformers>=4.38.2
+timm>=0.9.16
+sentencepiece
+librosa
+protobuf==3.19.0
+accelerate
