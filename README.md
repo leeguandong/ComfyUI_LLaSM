@@ -21,7 +21,7 @@ https://huggingface.co/spaces/LinkSoul/LLaSM
 
 - 节点：
 
-   - LLaSM Model Loader：自动加载 M3Net 模型
+   - LLaSM Model Loader：自动加载 LLaSM 模型
    - LLaSM2Interface：推理
    - LLaSM Load Audio：加载音频
 
