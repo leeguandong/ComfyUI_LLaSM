@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_llasm"
+description = "ComfyUI for [a/LLaSM](https://huggingface.co/spaces/LinkSoul/LLaSM)"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["attrdict", "huggingface_hub", "transformers>=4.38.2", "timm>=0.9.16", "sentencepiece", "librosa", "protobuf==3.19.0", "accelerate"]
+
+[project.urls]
+Repository = "https://github.com/leeguandong/ComfyUI_LLaSM"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_LLaSM"
+Icon = ""
